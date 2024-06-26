@@ -6,8 +6,8 @@
 ### :man_technologist: About Me 
 
 - 👩🏻‍💻 Pronouns: He/Him
-- 💼 Previously worked as a <strong>Jr. Laravel Developer</strong> at <a href="https://www.parextech.com/">Parex Technologies</a>.
 - 💼 Currentlly working as a <strong>Sr. Laravel Developer / Tech Lead</strong> at <a href="https://www.chetsapp.com">ChetsApp Private Limited</a>.
+- 💼 Previously worked as a <strong>Jr. Laravel Developer</strong> at <a href="https://www.parextech.com/">Parex Technologies</a>.
 - 🎒 Experienced in web development.
 - 🧭 Passionate about frontend and backend development.
 - 🎭 Enjoys connecting with people.
