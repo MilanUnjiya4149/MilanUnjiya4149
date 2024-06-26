@@ -1,17 +1,16 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4E12AQHJ33Vk3PBm5A/article-cover_image-shrink_600_2000/0/1679499121542?e=2147483647&v=beta&t=Fy41uyTz_qPjfEOPNohY8QAaRbxBMBwdK-hPDS_j60g)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/D4E12AQHJ33Vk3PBm5A/article-cover_image-shrink_600_2000/0/1679499121542?e=2147483647&v=beta&t=Fy41uyTz_qPjfEOPNohY8QAaRbxBMBwdK-hPDS_j60g)](https://chetsapp.com/)
 <h1 align="center"> Hello,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Milan Unjiya</h1>
-<h3></h3>A passionate Backend Developer from India.</h3>
+<h3 align="center"></h3>A passionate Backend Developer from India.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn3d.iconscout.com/3d/premium/thumb/back-end-developer-6230174-5107145.png?f=webp">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MilanUnjiya4149&label=Profile%20views&color=0e75b6&style=flat" alt="milMilanUnjiya4149" /> </p>
 ### :man_technologist: About Me 
 
-- 👩🏻‍💻 Pronouns: He/Him
-- 💼 Currentlly working as a <strong>Sr. Laravel Developer / Tech Lead</strong> at <a href="https://www.chetsapp.com">ChetsApp Private Limited</a>.
+- 🔭 I’m currently currentlly working as a <strong>Sr. Laravel Developer / Tech Lead</strong> at <a href="https://www.chetsapp.com">ChetsApp Private Limited</a>.
 - 💼 Previously worked as a <strong>Jr. Laravel Developer</strong> at <a href="https://www.parextech.com/">Parex Technologies</a>.
-- 🎒 Experienced in web development.
+- 🌱 I’m currently learning **Vuejs**
+- 💬 Ask me about **PHP, Laravel**
 - 🧭 Passionate about frontend and backend development.
-- 🎭 Enjoys connecting with people.
-- 📫 How to reach me: Check the social links below.
+- 📫 How to reach me **milanunjiya@gmail.com**
 
 ### :hammer_and_wrench: Languages and Tools 
 <div>
@@ -23,6 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="JQuery" alt="Jquery" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="AngularJS" alt="AngularJS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>  
 
