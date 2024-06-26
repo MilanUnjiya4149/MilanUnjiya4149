@@ -1,8 +1,9 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4E12AQHJ33Vk3PBm5A/article-cover_image-shrink_600_2000/0/1679499121542?e=2147483647&v=beta&t=Fy41uyTz_qPjfEOPNohY8QAaRbxBMBwdK-hPDS_j60g)](https://chetsapp.com/)
 <h1 align="center"> Hello,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Milan Unjiya</h1>
-<h3 align="center"></h3>A passionate Backend Developer from India.</h3>
+<h3 align="center">A passionate Backend Developer from India.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn3d.iconscout.com/3d/premium/thumb/back-end-developer-6230174-5107145.png?f=webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MilanUnjiya4149&label=Profile%20views&color=0e75b6&style=flat" alt="milMilanUnjiya4149" /> </p>
+
 ### :man_technologist: About Me 
 
 - 🔭 I’m currently currentlly working as a <strong>Sr. Laravel Developer / Tech Lead</strong> at <a href="https://www.chetsapp.com">ChetsApp Private Limited</a>.
